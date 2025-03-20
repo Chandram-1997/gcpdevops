@@ -1,0 +1,4 @@
+product,productid,orderdate
+jeans,1,2022
+shirt,2,2023
+utensil,3,2024
